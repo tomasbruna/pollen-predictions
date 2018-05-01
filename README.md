@@ -5,11 +5,11 @@ This repository contains the final project for Georgia Tech's *BMED6700 Biostati
 It is organized as follows:
 
     .
-    ├── report                  # Final report for the project
-    ├── scraper                 # Scraping scripts
+    ├── report                  # A folder with final report for the project
+    ├── scraper                 # A set of scraping scripts and results
     │   ├── pollen_scraper.py   # Script for pollen data scraping
-    │   ├── pollen_data.tsv     # A dataset with scraped pollen data
-    ├── time_series             # A set of time series analysis script
+    │   ├── pollen_data.tsv     # Scraped pollen data
+    ├── time_series             # A set of time series analysis scripts
     ├── machine_learning        # A set of machine learning prediction scripts
     └
 
