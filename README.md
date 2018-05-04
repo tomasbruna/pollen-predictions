@@ -9,7 +9,7 @@ It is organized as follows:
     ├── scraper                 # A set of scraping scripts and results
     │   ├── pollen_scraper.py   # Script for pollen data scraping
     │   ├── pollen_data.tsv     # Scraped pollen data
-    ├── time_series             # A set of time series analysis scripts
+    ├── analysis                # A set of time series analysis scripts
     ├── machine_learning        # A set of machine learning prediction scripts
     └
 
